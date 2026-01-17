@@ -18,7 +18,7 @@ const App: React.FC = () => {
       <main className="flex-grow">
         <Hero />
         <ListingDemo />
-        <Features />
+        </>
         <Workflow />
         <DigitalStaging />
         <Gallery />
